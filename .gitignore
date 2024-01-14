@@ -1,4 +1,6 @@
 test/
+git_keypair
+git_keypair.pub
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
