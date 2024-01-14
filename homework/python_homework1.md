@@ -94,13 +94,13 @@ Basierend auf diesen Informationen berechnet das Programm den typischen wöchent
 Beispielausgabe:
 
 ```shell
-How many times a week do you eat at the student cafeteria? 4
-The price of a typical student lunch? 2.5
+How many times a week do you eat at a restaurant? 4
+The price of a typical meal? 22.5
 How much money do you spend on groceries in a week? 28.5
 
 Average food expenditure:
-Daily: 5.5 euros
-Weekly: 38.5 euros
+Daily: 16.9 euros
+Weekly: 118.5 euros
 ```
 
 ### Extra 5 (25 Punkte)
@@ -109,7 +109,7 @@ Schreibe ein Programm, das nach der Anzahl der Studierenden eines Kurses und der
 
 Beispielausgabe:
 
-```Shell
+```shell
 How many students on the course? 8
 Desired group size? 4
 Number of groups formed: 2
