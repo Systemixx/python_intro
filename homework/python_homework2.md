@@ -1,7 +1,7 @@
 ## Python HA 2
 
 ## Aufgabe 1 (20 Punkte)
-Schreibe ein Programm, das den Benutzer nach einer Ganzzahl fragt. Wenn die Zahl kleiner als Null ist, sollte das Programm die mit -1 multiplizierte Zahl ausgeben. Andernfalls gibt das Programm die Nummer unverändert aus. Bitte sehen Sie sich unten die Beispiele für erwartetes Verhalten an.
+Schreibe ein Programm, das den Benutzer nach einer Ganzzahl fragt. Wenn die Zahl kleiner als Null ist, sollte das Programm die mit -1 multiplizierte Zahl ausgeben. Andernfalls gibt das Programm die Nummer unverändert aus. 
 
 Beispielsausgabe:
 ```shell
@@ -76,7 +76,8 @@ Don't forget your umbrella!
 Python-Vergleichsoperatoren können auch für Zeichenfolgen verwendet werden. String a ist kleiner als String b, wenn er alphabetisch vor b steht. Beachte jedoch, dass der Vergleich nur dann zuverlässig ist, wenn:
 - die verglichenen Zeichen haben die gleiche Groß- und Kleinschreibung, d. h. beide GROSSBUCHSTABEN oder beide Kleinbuchstaben
 - es wird nur das englische Standardalphabet von a bis z oder A bis Z verwendet.
-Schreibe Sie ein Programm, das den Benutzer nach zwei Wörtern fragt. Das Programm sollte dann diejenige der beiden ausdrucken, die alphabetisch an letzter Stelle steht.
+
+Schreibe ein Programm, das den Benutzer nach zwei Wörtern fragt. Das Programm sollte dann diejenige der beiden ausdrucken, die alphabetisch an letzter Stelle steht.
 Du kannst davon ausgehen, dass alle Wörter vollständig in Kleinbuchstaben eingegeben werden.
 
 Beispielsausgabe:
