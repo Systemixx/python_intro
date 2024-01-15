@@ -1,6 +1,7 @@
 test/
 git_keypair
 git_keypair.pub
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
