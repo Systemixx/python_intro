@@ -12,8 +12,6 @@ Beispielaufrufe:
 ```python
 print_many_times("hi", 5)
 
-print()
-
 text = "All Pythons, except one, grow up"
 times = 3
 print_many_times(text, times)
@@ -59,6 +57,8 @@ In jedem Fall kannst du davon ausgehen, dass die Argumentzeichenkette mindestens
 Beispielaufrufe und Ausgabe:
 
 ```python
+sentence = "it was a dark and stormy python"
+
 print(first_word(sentence)) # it
 print(second_word(sentence)) # was
 print(last_word(sentence)) # python
