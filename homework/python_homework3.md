@@ -1,7 +1,7 @@
 ## Python HA 3
 
 ### Aufgabe 2 (20 Punkte)
-Erstelle eine Funktion `circle_area`, die den Radius eines Kreises als Parameter verwendet und dessen Fläche zurückgibt. (Verwende 3,14 als Wert von Pi).
+Erstelle eine Funktion `circle_area`, die den Radius eines Kreises als Parameter verwendet und dessen Fläche zurückgibt. (Verwende 3,14 als Wert von Pi). Benutze Docstrings, um die Funktion zu beschreiben.
 
 ### Aufgabe 2 (20 Punkte)
 
@@ -30,6 +30,7 @@ All Pythons, except one, grow up.
 All Pythons, except one, grow up.
 All Pythons, except one, grow up.
 ```
+Benutze Docstrings, um die Funktion zu beschreiben.
 
 ### Aufgabe 3 (30 Punkte)
 Schreibe eine Funktion namens same_chars, die einen String und zwei Ganzzahlen als Argumente akzeptiert. Die Ganzzahlen beziehen sich auf Indizes innerhalb der Zeichenfolge. Die Funktion sollte „True“ zurückgeben, wenn die beiden Zeichen an den angegebenen Indizes identisch sind. Andernfalls und insbesondere wenn einer der Indizes außerhalb des Gültigkeitsbereichs der Zeichenfolge liegt, gibt die Funktion „False“ zurück.
@@ -46,6 +47,7 @@ print(same_chars("programmer", 0, 4)) # False
 # the second index is not within the string
 print(same_chars("programmer", 0, 12)) # False
 ```
+Benutze Docstrings, um die Funktion zu beschreiben.
 
 ### Aufgabe 4 (30 Punkte)
 Schreibe drei Funktionen: `erstes_Wort`, `zweites_Wort` und `letztes_Wort`. Jede Funktion benötigt ein String-Argument.
@@ -53,6 +55,8 @@ Schreibe drei Funktionen: `erstes_Wort`, `zweites_Wort` und `letztes_Wort`. Jede
 Wie der Name schon sagt, geben die Funktionen entweder das erste, das zweite oder das letzte Wort des Satzes zurück, den sie als String-Argument erhalten.
 
 In jedem Fall kannst du davon ausgehen, dass die Argumentzeichenkette mindestens zwei separate Wörter enthält und alle Wörter durch genau ein Leerzeichen getrennt sind. Am Anfang und Ende der Argumentzeichenketten dürfen keine Leerzeichen stehen.
+
+Benutze Docstrings, um die Funktion zu beschreiben.
 
 Beispielaufrufe und Ausgabe:
 
@@ -75,9 +79,11 @@ Erstelle eine Funktion „validate_password“, die anhand dieser Kriterien prü
 
 Die Funktion soll „True“ oder „False“ zurückgeben.
 
+Benutze Docstrings, um die Funktion zu beschreiben.
+
 ### Extra 2 (40 Punkte)
 Schau dir den Code in der Datei `space_adventure.py` an. 
 - Welcher Datentyp wird zur Implementierung von `locations` verwendet? 
 - Wofür wird der Block `while True:` verwendet? 
 
-Schreibe den Code so um, dass die Ausführung des Programms mit der `main()`-Funktion beginnt. Teste den Code.
+Schreibe den Code so um, dass die Ausführung des Programms mit der `main()`-Funktion beginnt. Benutze Docstrings, um die Funktion zu beschreiben. Teste den Code.

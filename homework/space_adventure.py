@@ -1,3 +1,12 @@
+# In this game:
+# The player starts in the "Central Hub" of a space station.
+# The goal is to collect items like a 'flashlight', 'food supplies', 'communication logs', and a 'toolkit'.
+# The player needs to navigate through the station, visiting the 'Living Quarters', 'Engine Room', 'Control Room', and 'Lab'.
+# Certain locations have challenges; for instance, the player needs a 'toolkit' to fix the engine in the 'Engine Room'.
+# The player can type 'inventory' to check the items they have collected.
+# The game is won by fixing the engine in the 'Engine Room' after obtaining the 'toolkit' from the 'Lab'.
+# Players can exit the game at any time by typing 'quit'.
+
 def space_adventure_game():
     current_location = "Central Hub"
     inventory = []
